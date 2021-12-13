@@ -2,5 +2,5 @@
 
 public class Solution
 {
-    public bool solution() => true;
+    public bool Method() => true;
 }
