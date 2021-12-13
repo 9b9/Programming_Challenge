@@ -1,8 +1,7 @@
-﻿name: .NET
+﻿name: T
 
 on:
-  push:
-    branches: [ main ]
+  push
 
 jobs:
   build:
