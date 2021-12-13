@@ -1,3 +1,1 @@
-Name            | Status
---------------|------------------------
-[Minimum_Amplitude_Of_SubArray](https://github.com/9b9/Programming_Challenge/tree/Minimum_Amplitude_Of_SubArray)    | ![workflow](https://github.com/9b9/Programming_Challenge/actions/workflows/dotnet.yml/badge.svg?branch=Minimum_Amplitude_Of_SubArray)
+Given array A, I need to remove K consecutive elements, so that the amplitude(difference between maximal and minimal elements) of the remaining elements will be minimal. e.g A=[3,5,1,3,9,8], K=4, the answer should be 1. I could remove [3,5,1,3] to get 1.
